@@ -1,2 +1,18 @@
-git commit -m "add all file in repository" - добавили все файлы в локальное хранилище 
+Создали папку проекта homework и добавил файлы index.html and main.js
+В homework создал папки admin,bin,config,data в которые положил файлы(с бредом=))
+Создал конфиг
+> git config --global user.name "Yuriy" - установил автора
+> git config --global user.email "admin@motto.ua" - и связь с автором(типо)
+создали файл .gitignore в который внесли данные об игнорировании всех файлов с расширением .sass и папки: bin, admin, config.
+git commit -m "add all file in repository" - добавили все файлы в локальное хранилище с игнорирование указаных файлов и папок
 git checkout -b task2 - создали новую ветку с названием "task2" и перешли в неё
+===================================================================================
+$ git checkout -b task2
+Switched to a new branch "task2"
+Это то же самое что и:
+
+$ git branch task2
+$ git checkout task2
+github полезная штука =)))))
+===================================================================================
+git commit -m "create blog and add 2 file " - в новой ветке создали папку блог и 2 файла
