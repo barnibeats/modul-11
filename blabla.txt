@@ -1,0 +1,2 @@
+git commit -m "add all file in repository" - добавили все файлы в локальное хранилище 
+git checkout -b task2 - создали новую ветку с названием "task2" и перешли в неё
