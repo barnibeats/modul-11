@@ -20,8 +20,10 @@ git commit -m "create blog and add 2 file " - в новой ветке созд�
  git commit -m "edit blabla.txt"
  git commit -m "merging 2 branches"
 
- Создали удалённый ропизиторий 
+ Создали удалённый репозиторий 
  git remote add origin https://github.com/barnibeats/modul-11.git 
  > git commit -m "connected remore repository"
 выгружаем все файлы
 git push -u origin master
+> git commit -m "upload all files"
+> git push -u origin master
