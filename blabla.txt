@@ -22,4 +22,6 @@ git commit -m "create blog and add 2 file " - в новой ветке созд�
 
  Создали удалённый ропизиторий 
  git remote add origin https://github.com/barnibeats/modul-11.git 
-
+ > git commit -m "connected remore repository"
+выгружаем все файлы
+git push -u origin master
