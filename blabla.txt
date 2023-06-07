@@ -16,3 +16,7 @@ $ git checkout task2
 github полезная штука =)))))
 ===================================================================================
 git commit -m "create blog and add 2 file " - в новой ветке создали папку блог и 2 файла
+производим слияние веток. master and task2
+ git commit -m "edit blabla.txt"
+ git commit -m "merging 2 branches"
+ 
