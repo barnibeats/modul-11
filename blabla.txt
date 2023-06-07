@@ -19,4 +19,7 @@ git commit -m "create blog and add 2 file " - в новой ветке созд�
 производим слияние веток. master and task2
  git commit -m "edit blabla.txt"
  git commit -m "merging 2 branches"
- 
+
+ Создали удалённый ропизиторий 
+ git remote add origin https://github.com/barnibeats/modul-11.git 
+
